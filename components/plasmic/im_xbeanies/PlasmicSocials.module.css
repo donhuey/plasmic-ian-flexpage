@@ -1,0 +1,33 @@
+.socials {
+  width: 88px;
+  height: 25px;
+  display: block;
+  position: relative;
+}
+.image4 {
+  background: url("/plasmic/im_xbeanies/images/image4.png") center center / cover no-repeat;
+  width: 20px;
+  height: 21px;
+  display: block;
+  position: absolute;
+  top: 3px;
+  left: 0px;
+}
+.image5 {
+  background: url("/plasmic/im_xbeanies/images/image5.png") center center / cover no-repeat;
+  width: 25px;
+  height: 25px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 31px;
+}
+.image6 {
+  background: url("/plasmic/im_xbeanies/images/image6.png") center center / cover no-repeat;
+  width: 22px;
+  height: 21px;
+  display: block;
+  position: absolute;
+  top: 2px;
+  left: 66px;
+}
